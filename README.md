@@ -1,4 +1,4 @@
-# PyTorch_Hardware_2025
+# PyTorch Hardware 2025
 
 This repository is licensed under the Creative Commons 
 Attribution 4.0 International License (CC BY 4.0).
